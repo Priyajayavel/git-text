@@ -1,0 +1,156 @@
+.head{
+	border:15px solid green;
+	border-radius:50px;
+}
+#color{
+	color: #8A2BE2;
+}
+.head1{
+	color: #DC143C;
+	background-color: #00FFFF;
+}
+.head2{
+	color: #9400D3;
+	background-color: #FF1493;
+}
+.text1{
+	text-align:center;
+	color:rgb(0,255,0);
+}
+.text2{
+	text-align:right;
+	color:rgb(238,130,238);
+}
+.text3{
+	text-align:left;
+	color:rgb(106,90,205);
+}
+.text4{
+	text-align:center;
+	color:rgb(255,7,0);
+}
+.text5{
+	text-align:justify;
+	color:rgb(255,99,71);
+}
+.text{
+	border:9px dotted #0000FF;
+}
+.last1{
+	text-align-last: center;
+	color:blue;
+}
+.last2{
+	text-align-last: right;
+	color: #ff0000;
+}
+.last3{
+	text-align-last: left;
+	color:#00ffff;
+}
+.last{
+	border:11px dashed brown;
+	
+}
+.degn{
+	border:12px double yellow;
+}
+	
+.degn1{
+direction: rtl;
+color:rgb(0,191,255);
+}
+.degn2{
+direction: ltr;
+color:rgb(191,0,255);
+}
+.degn3{
+direction: rtl;
+color:rgb(255,0,191);
+}	
+.decore1{
+	text-decoration: overline;
+	color:#ffbf00;
+}
+
+.decore2{
+	text-decoration: line-through;
+	color:#80ff00;
+}
+.decore3{
+	text-decoration: underline dotted;
+	color:#00ffbf;
+}
+.decore4{
+text-decoration: underline overline;
+color:#8000ff;
+}
+.decore5{
+	text-decoration:underline;
+	color:#ff0000;
+}
+.decore6{
+	text-decoration: underline double;
+	color:#00ff40;
+}
+
+.decore{
+	border:5px ridge pink;
+	border-radius:30px;
+	
+}
+.transfer1{
+	text-transform:uppercase;
+	color:rgb(255,0,128);
+}
+.transfer2{
+	text-transform:lowercase;
+	color:rgb(0,128,255);
+}
+.transfer3{
+	text-transform:capitalize;
+	color:rgb(191,0,255);
+}
+.transfer{
+	border-style: dotted double;
+	border-color:green red;
+}
+.line1{
+	text-indent:40px;
+	color:rgb(255,64,0);
+}
+.line2{
+	letter-spacing:5px;
+	color:#ff8000;
+}
+.line3{
+	line-height:1.8;
+	color:hsl(45,100%,50%);
+}
+.line4{
+	word-spacing: 15px;
+	color:rgb(0,255,191);
+}
+.line5{
+	white-space:normal;
+	color:#bf00ff;
+}
+.line{
+	border-style: dotted double dashed solid;
+	border-color: #ff00bf #0000ff rgb(0,255,255) rgb(0,255,0);
+}
+.top1{
+	text-shadow:1px 1px #00FF00;
+}
+.top2{
+	text-shadow:5px 5px rgb(255,6,0)
+}
+.top3{
+	text-shadow:6px 6px 10px purple;
+}
+.top{
+	border-style: dotted double ridge solid;
+	border-color:hsl(300,100%,50%) green #ff0000 rgb(255,0,255)
+	
+
+	
